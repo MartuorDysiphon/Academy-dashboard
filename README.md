@@ -1,6 +1,7 @@
 # MartuorDysiphon Dashboard Analysis Web Page
 
 Welcome to the MartuorDysiphon Dashboard Analysis web design README! This web page is designed to provide a comprehensive dashboard for analyzing various aspects of your data. The page includes visually appealing graphics, analytics, user information, reminders, and more to enhance the user experience.
+![image](https://github.com/MartuorDysiphon/Academy-dashboard/assets/129260867/1ea1931e-c8f7-431f-83d4-4800098e0379)
 
 ## Table of Contents
 
